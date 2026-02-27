@@ -47,6 +47,3 @@ Add screenshots of the app here (recommended):
 
 ## My Kotlin journey
 This project is one milestone in my Kotlin journey—starting from basics and gradually building small apps to strengthen my understanding through practice.
-
-## License
-Add a license if you want (MIT is common). Otherwise, you can remove this section.
